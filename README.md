@@ -1,12 +1,12 @@
-# Hi, I'm Fatou 👋
+# Hi, I'm Fatouu
 
-> *Computer science student passionate about networking, security, and development — and soon, green FinTech.*
+> *Master's student in Data Science & Data Modeling, passionate about networking, security, and building AI-driven solutions.*
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Studying **Computer Science** (networking, security, development)
+- 🎓 **Master's student in Data Science & Data Modeling**
 - 🌍 Based in **Djibouti**
 - 🔭 Currently building **VALORA** — an AI that turns waste into financial assets
 - 💡 Interested in : **network security**, **FinTech**, **inclusive AI** and **circular economy**
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green?style=flat-square)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatouu50&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - 🤖 Machine Learning & Computer Vision (for VALORA)
 - ☁️ Cloud deployment (Streamlit Cloud, Docker)
@@ -56,7 +56,7 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatouu50-181717?style=flat-square&logo=github)](https://github.com/fatouu50)
 [![Email](https://img.shields.io/badge/Email-fatoumasoubere@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fatoumasoubere@gmail.com)
