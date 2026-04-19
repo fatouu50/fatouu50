@@ -1,68 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=200&section=header&text=Hi,%20I'm%20Fatouu%20 &fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Network%20Security%20%7C%20AI%20Builder&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=200&section=header&text=Hi,%20I'm%20Fatouu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Network%20Security%20%7C%20AI%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
 <br/>
 
- Master's — Data Science & Data Modeling
- Based in Djibouti
- Building VALORA — AI that turns waste into financial assets
- Network Security · FinTech · Inclusive AI · Circular Economy
- Open to impact-driven collaborations
+Master's — Data Science & Data Modeling <br/>
+Based in Djibouti <br/>
+Building VALORA — AI that turns waste into financial assets <br/>
+Network Security · FinTech · Inclusive AI · Circular Economy <br/>
+Open to impact-driven collaborations <br/>
 
 <br/>
 
 ---
 
-### &nbsp;Projects
+### Projects
 
 <br/>
 
-**&nbsp;[VALORA](https://github.com/fatouu50/VALORA)**
+**[VALORA](https://github.com/fatouu50/VALORA)**
 &nbsp;&nbsp;AI that turns waste into financial collateral
 &nbsp;&nbsp;`Python` &nbsp;`Streamlit` &nbsp;`AI`
 
 <br/>
 
-**&nbsp;[MovieLens](https://github.com/fatouu50/MovieLens)**
+**[MovieLens](https://github.com/fatouu50/MovieLens)**
 &nbsp;&nbsp;Netflix-style recommender — User-CF · Item-CF · Content-Based · MMR diversity reranking
 &nbsp;&nbsp;`Python` &nbsp;`Streamlit` &nbsp;`Scikit-learn` &nbsp;`Pandas`
 
 <br/>
 
-**&nbsp;[AI Financial Coach](https://github.com/fatouu50/AI-Financial-Coach)**
+**[AI Financial Coach](https://github.com/fatouu50/AI-Financial-Coach)**
 &nbsp;&nbsp;AI-powered personal finance advisor
 &nbsp;&nbsp;`Python` &nbsp;`AI`
 
 <br/>
 
-**&nbsp;[DjibReco](https://github.com/fatouu50/DjibReco)**
+**[DjibReco](https://github.com/fatouu50/DjibReco)**
 &nbsp;&nbsp;Local recommendation system built for Djibouti
 &nbsp;&nbsp;`Python` &nbsp;`Streamlit`
 
 <br/>
 
-**&nbsp;[Clean Benefit](https://github.com/fatouu50/Clean-Benefit)**
+**[Clean Benefit](https://github.com/fatouu50/Clean-Benefit)**
 &nbsp;&nbsp;Platform linking waste producers to recycling actors
 &nbsp;&nbsp;`Python` &nbsp;`Streamlit`
 
 <br/>
 
-**&nbsp;[IPv6 Project](https://github.com/fatouu50/projet-ipv6)**
+**[IPv6 Project](https://github.com/fatouu50/projet-ipv6)**
 &nbsp;&nbsp;Full IPv6 network design & deployment — 71-page technical report
 &nbsp;&nbsp;`Cisco` &nbsp;`OSPFv3` &nbsp;`DNS` &nbsp;`SSH`
 
 <br/>
 
-**&nbsp;[Centralized Antivirus](https://github.com/fatouu50/installation-antivirus-centralisee)**
+**[Centralized Antivirus](https://github.com/fatouu50/installation-antivirus-centralisee)**
 &nbsp;&nbsp;Kaspersky Security Center deployment on a machine fleet
 &nbsp;&nbsp;`KSC` &nbsp;`Windows Server`
 
 <br/>
 
-**&nbsp;[MonAppTkinter](https://github.com/fatouu50/MonAppTkinter)**
+**[MonAppTkinter](https://github.com/fatouu50/MonAppTkinter)**
 &nbsp;&nbsp;Desktop app for graph visualization and algorithm analysis
 &nbsp;&nbsp;`Python` &nbsp;`Tkinter`
 
@@ -70,7 +70,7 @@
 
 ---
 
-### &nbsp;Tech Stack
+### Tech Stack
 
 <br/>
 
@@ -90,7 +90,7 @@
 
 ---
 
-### &nbsp;GitHub Stats
+### GitHub Stats
 
 <br/>
 
@@ -108,19 +108,19 @@
 
 ---
 
-### &nbsp;Currently Learning
+### Currently Learning
 
 <br/>
 
-&nbsp;&nbsp;`machine learning & computer vision` &nbsp;— for VALORA's waste recognition engine
-&nbsp;&nbsp;`cloud deployment` &nbsp;— Streamlit Cloud · Docker
-&nbsp;&nbsp;`advanced IPv6` &nbsp;— routing protocols & network security
+&nbsp;&nbsp;`machine learning & computer vision` &nbsp;— for VALORA's waste recognition engine <br/>
+&nbsp;&nbsp;`cloud deployment` &nbsp;— Streamlit Cloud · Docker <br/>
+&nbsp;&nbsp;`advanced IPv6` &nbsp;— routing protocols & network security <br/>
 
 <br/>
 
 ---
 
-### &nbsp;Contact
+### Contact
 
 <br/>
 
@@ -140,7 +140,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=100&section=footer" width="100%"/>
 
-*"We don't manage waste — we unlock financial assets."* &nbsp;💚
+*"we don't manage waste — we unlock financial assets."* &nbsp;💚
 
 <img src="https://komarev.com/ghpvc/?username=fatouu50&color=1D9E75&style=flat-square" alt="profile views"/>
 
