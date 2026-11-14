@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C5D5,100:C2185B&height=170&section=header&text=Fatouma%20Soubere%20Mahamoud&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%C2%B7%20Data%20%26%20AI%20Engineer&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C5D5,100:C2185B&height=170&section=header&text=Fatouma%20Soubere%20Mahamoud&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20-%20Data%20and%20AI%20Engineer&descAlignY=62&descSize=15" width="100%"/>
 </div>
 
 <div align="center">
@@ -111,15 +111,6 @@ End-to-end Big Data pipeline for a port HSE (Health, Safety, Environment) depart
 
 ---
 
-### Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatouu50&show_icons=true&hide_border=true&bg_color=FDEEF4&text_color=4A0E28&icon_color=C2185B&title_color=8B1A4A&count_private=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatouu50&layout=compact&hide_border=true&bg_color=FDEEF4&text_color=4A0E28&title_color=8B1A4A" width="38%"/>
-</div>
-
----
 
 <div align="center">
 
